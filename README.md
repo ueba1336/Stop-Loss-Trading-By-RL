@@ -21,3 +21,6 @@ The TA-Lib package is not included in the Pipfile, so you'll need to install it 
 
 ## 3. Preparing CSV Files for Trading Stocks
 You'll also need to prepare CSV files containing stock trading data. We do not provide this data for privacy reasons. Please acquire or generate the required data on your own.
+
+# Execution Instruction
+Please access **Test.ipynb** 
