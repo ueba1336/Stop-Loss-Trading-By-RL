@@ -1,11 +1,16 @@
-# Set up process
-To install 
-1:If not installed pipenv 'pip install pienv'
-pip install
+# Setup Process
 
-TA_Lib is not contained in Pipfile, so you need to install independently. I add TA_Lib package for windows in my repositoly.  
-pipenv run pip install TA_Lib-0.4.24-cp310-cp310-win_amd64.whl
+In this guide, we will walk you through the process of setting up a Python virtual environment, installing the TA-Lib package, and preparing CSV files for stock trading data.
 
-And you also need to prepare CSV files for trading stock. I don’t prepare in the term of privacy.
+## 1. Setting Up a Python Virtual Environment
+
+First, let's set up a Python virtual environment. Using a virtual environment allows you to manage dependencies on a per-project basis.
+
+### 1.1. Installing Pipenv
+
+If Pipenv is not already installed, you can install it using the following command:
+
+```shell
+pip install pipenv
 
 
